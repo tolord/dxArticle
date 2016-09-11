@@ -1,0 +1,841 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    display:flex;
+    height:100%;
+    min-height:100vh;
+    width:100vw;
+
+    line-height:0;
+    font-size:0;
+
+}
+
+
+.content{
+    width:100%;
+}
+.content .head{
+    width:100%;
+    background-color: #C69B6B;
+    color:white;
+}
+.content .head-content{
+    width:1000px;
+    margin:0 auto;
+}
+
+
+.content .head img{
+    display: inline-block;
+    margin-top:10px;
+    margin-bottom:10px;
+    /*position:absolute;*/
+    /*left:0;*/
+}
+.content .head .email{
+
+    display:inline-block;
+/*position:absolute;*/
+    /*right:0;*/
+    float:right;
+    font-size:10px;
+    margin-top:25px;
+
+
+}
+.content .head button{
+    display:inline-block;
+    padding:15px;
+    color:black;
+    border:0;
+    border-radius: 4px 0 0 4px;
+    background-color: white;
+}
+.content .head-content .head-email{
+    display:inline-block;
+    width:30px;
+    height:30px;
+
+    background-color: #7C583A;
+    border-radius: 0 4px 4px 0;
+    vertical-align: top;
+    text-align: center;
+    line-height: 30px;
+}
+.content .nav-content{
+    width:1000px;
+    margin:0 auto;
+    font-size: 14px;
+    color:black;
+    background-color:white;
+
+}
+.content .nav-content .navbar-default{
+    border:0;
+    background-color:white;
+    margin:0;
+
+}
+.content .nav-content .navbar-brand{
+    font-size:14px;
+
+}
+.content .banner{
+    width:100vw;
+}
+
+/*.content .banner .slide1, .slide2, .slide3{*/
+
+    /*background-image: url("../img/banner.png");*/
+    /*/!*max-height:281px;*!/*/
+    /*background-size:cover;*/
+/*}*/
+.content .banner img{
+    width:100%;
+
+}
+
+.content .news-center{
+    width:812px;
+    margin:0 auto;
+    color:#C69B6B;
+}
+
+
+
+
+
+
+
+.content .title{
+    padding-top:35px;
+}
+.content .title .main-title{
+
+    font-size:30px;
+    line-height:30px;
+    color:#C69B6B;
+    font-weight: bold;
+
+}
+.content .title .sub-title{
+    font-size:14px;
+    line-height:14px;
+    color:#C69B6B;
+
+}
+
+
+
+
+
+.content .news-center .news-content .news-left{
+    display:inline-block;
+
+   width:45%;
+}
+.content .news-center .news-content .news-right{
+    display:inline-block;
+
+    width:45%;
+    margin-left:10%;
+}
+
+.content .news-center .news-content .news,.content .news-center .news-content .news img{
+    width:100%;
+    margin:10px 0;
+
+}
+.content .news-center .news-content .news .article{
+    width:90%;
+
+    margin-left:5%;
+    color:black;
+    font-size:14px;
+    line-height:14px;
+}
+.content .news-center .news-content .news .article .art-title{
+    font-size: 16px;
+
+}
+
+
+.content .circle{
+
+    /*background-image: url("../img/circle.png");*/
+    /*background-size: cover;*/
+
+}
+.content .circle img{
+    width:100%;
+}
+.content .partner{
+    background-color: #F1F1F1;
+
+}
+.content .partner-content{
+    width:812px;
+    margin:0 auto;
+
+
+}
+.content .partner .avatar .a-container{
+    display:inline-block;
+    width:175px;
+    text-align: center;
+}
+.content .partner .avatar .middle{
+    margin:0 140px;
+}
+.content .partner .avatar .a-container img{
+    width:100%;
+}
+
+.content .partner .avatar-intro{
+    width:100%;
+    color:black;
+    font-size:14px;
+    line-height: 14px;
+    padding-top:14px;
+
+    height:60px;
+}
+.content .partner .name{
+    width:100%;
+    color:#C69B6B;
+    font-size:24px;
+}
+.content .partner button{
+    background-color: #C69B6B;
+
+    border:0;
+    border-radius: 6px;
+    width:40%;
+    margin:50px 30%;
+
+    /*padding:10px 50px;*/
+
+    color:white;
+    text-align:center;
+    font-size:14px;
+    line-height:30px;
+    /*clear:both;*/
+
+}
+.content .wechat{
+    position:relative;
+    width:812px;
+    margin:0 auto;
+/*height:500px;*/
+}
+.content .wechat .we-left{
+    display:inline-block;
+    width:342px;
+}
+
+.content .wechat .we-left .intro{
+    color:black;
+    font-size:14px;
+    line-height:14px;
+}
+.content .wechat .we-right{
+    display: inline-block;
+    width:470px;
+}
+.content .wechat .we-left img{
+    margin-top:33px;
+    width:142px;
+    margin-bottom:45px;
+}
+.content .wechat .we-right img{
+    position:absolute;
+    top:35px;
+    width:472px;
+}
+.content .wechat .we-left .title{
+    padding-top:65px;
+    margin-bottom: 33px;
+}
+.content .product{
+    background:url('../img/productB.png') center;
+    background-size:cover;
+}
+.content .product .pro-content{
+    width:812px;
+    margin:0 auto;
+}
+.content .product .title p{
+    color:white;
+}
+.content .product .pro-container{
+    padding-top:16px;
+    /*padding-bottom:50px;*/
+
+}
+.content .product .pro-container .tu{
+    display:inline-block;
+    width:90px;
+
+}
+.content .product .pro-container .tu img{
+    width:100%;
+}
+.content .product .pro-container .lines{
+
+    display:inline-block;
+    margin-left:30px;
+    width:475px;
+    vertical-align: middle;
+
+}
+.content .product .pro-container p{
+    font-size:14px;
+    color:white;
+    line-height:25px;
+    margin:0;
+}
+.content .product .fudong{
+    padding:20px 0 40px 0;
+}
+.content .logo{
+    width:812px;
+    margin:0 auto;
+}
+.content .logo-content img{
+    width:100%;
+}
+.content .logo button{
+    background-color: #C69B6B;
+
+    border:0;
+    border-radius: 6px;
+    width:40%;
+    margin:50px 30%;
+
+    /*padding:10px 50px;*/
+
+    color:white;
+    text-align:center;
+    font-size:14px;
+    line-height:30px;
+    /*clear:both;*/
+
+}
+.content .foot{
+    background-color: #C69B6B;
+
+}
+.content .foot-container{
+    width:812px;
+    margin:0 auto;
+    padding:20px 0;
+
+    text-align: center;
+    color:white;
+    font-size:14px;
+    line-height:20px;
+    vertical-align: middle;
+}
+.content .foot li{
+    display:inline;
+
+}
+.content .foot ul{
+    margin-bottom:30px;
+}
+.content .foot a{
+    color:white;
+    text-decoration:none;
+
+}
+
+/*.content .about-banner{*/
+    /*width:100vw;*/
+    /*height:214px;*/
+    /*background:url("../img/about_banner.png") center;*/
+    /*background-size: cover;*/
+
+/*}*/
+
+.content .about-banner img{
+    width:100%;
+}
+.content .about-dongshi{
+    width:812px;
+    margin:0 auto;
+    padding-bottom:40px;
+}
+.content .about-dongshi .dongshi-left{
+    display:inline-block;
+    width:162px;
+}
+.content .about-dongshi .dongshi-left img{
+    width: 100%;
+    margin-top:20px;
+}
+.content .about-dongshi .dongshi-right{
+    display:inline-block;
+    width:595px;
+    margin-left:52px;
+    font-size:14px;
+    color:black;
+    line-height:25px;
+    vertical-align: middle;
+}
+.content .about-invest{
+    height:381px;
+    background-image: url("../img/about_intro.png");
+    background-size: cover;
+}
+.content .about-invest .about-icontent{
+    width:812px;
+    margin: 0 auto;
+}
+.content .about-invest p{
+    color:white;
+    font-size:14px;
+    line-height:30px;
+
+}
+.content .about-invest .about-i{
+    margin:15px 0 50px 0;
+}
+.content .about-concept{
+    width:812px;
+    margin:0 auto;
+
+}
+.content .about-concept .about-c{
+    /*padding-left:481px;*/
+
+    color:#C69B6B;
+    font-size:20px;
+    line-height:36px;
+    font-weight: bold;
+    margin:45px 0 107px 481px;
+
+}
+.content .about-cor{
+    background:#5C5C5C;
+    /*height:380px;*/
+    /*background-color:#5C5C5C;*/
+}
+.content .about-cor table{
+    margin:20px 0 0 0;
+
+    /*height:275px;*/
+
+}
+
+.content .about-cor table tr{
+
+    display:table-row;
+
+    width:100%;
+    color:white;
+    font-size:14px;
+    line-height:25px;
+    vertical-align: top;
+    margin-bottom:20px;
+
+
+}
+.content .about-cor table td{
+    padding-bottom:10px;
+}
+
+.content .team-banner{
+    /*background-image: url("../img/contact_banner.png");*/
+}
+.content .team-partner .partner1{
+    margin-top:30px;
+    margin-bottom:50px;
+
+}
+.content .team-partner .partner2{
+    margin-bottom:50px;
+}
+
+.content .team-partner img{
+    display:inline-block;
+    width:174px;
+}
+.content .team-partner .partner1-intro {
+    display:inline-block;
+    width:570px;
+    margin-left:60px;
+
+    vertical-align: middle;
+    font-size:6px;
+    line-height:20px;
+    color:black;
+
+
+}
+
+.content .team-manager .manager1{
+    display:inline-block;
+    width:33.3%;
+    margin:20px 0;
+    font-size:18px;
+    line-height: 18px;
+    text-align: center;
+}
+.content .team-manager .manager1 img{
+    /*margin-top:20px;*/
+    width:70%;
+    /*margin-left:15%;*/
+}
+.content .team-employee{
+    margin-bottom:77px;
+}
+.content .team-employee .employee{
+    width:90%;
+    margin-left:5%;
+    height:173px;
+    background-color:#C69B6B;
+
+
+}
+.content .contact-banner{
+    /*background-image:url("../img/cont_banner.png");*/
+}
+.content .contact-us .contact-title{
+    font-size:20px;
+    line-height: 80px;
+    color:black;
+    font-weight: bold;
+
+}
+.content .contact-us img{
+    display:inline-block;
+    width:65px;
+}
+.content .contact-us .contact-content{
+    display:inline-block;
+    width:437px;
+    margin-left:20px;
+    vertical-align: top;
+
+    font-size:14px;
+    line-height: 22px;
+    color:black;
+    margin-bottom:40px;
+
+}
+.content .contact-us .contact-map{
+    margin-top:50px;
+    margin-bottom:100px;
+}
+.content .contact-us .contact-map2 img{
+    width:100%;
+}
+.content .partner-banner{
+    /*background-image:url("../img/partner_banner.png");*/
+
+}
+.content .partner-content .partner1{
+    margin:30px 0 40px 0;
+}
+.content .partner-content .partner1 img{
+    width:160px;
+
+}
+.content .partner-content .partner1 .partner-cont{
+    display:inline-block;
+    width:580px;
+    margin-left:40px;
+    vertical-align: top;
+
+    font-size:14px;
+    line-height: 25px;
+    color:black;
+
+}
+.content .partner-content .partner1 .partner-cont .partner-cont-title{
+    color:#C69B6B ;font-size: 20px;line-height: 40px;
+}
+
+.content .partner-content .partner2 .partner-ins{
+    display:inline-block;
+    width:50%;
+    vertical-align: top;
+    margin-bottom:30px;
+
+}
+.content .partner-content .partner2 .partner-ins img {
+    width:90%;
+    margin-bottom:70px;
+}
+.content .cnews-banner{
+    /*background-image: url("../img/cnews_banner.png");*/
+}
+.content .cnews-content .news {
+    margin:15px 0;
+}
+
+.content .cnews-content .news .rec{
+    display:inline-block;
+    height:18px;
+    width:10px;
+    margin-left:10px;
+
+    background-color: #C69B6B;    vertical-align: top;
+
+
+}
+.content .cnews-content .news .article{
+    display:inline-block;
+    /*height:20px;*/
+    width:80%;
+    margin-left:10px;
+    font-size:14px;
+    line-height:14px;
+    /*background-color: #C69B6B;*/
+}
+.content .cnews-content .news .article .art-title{
+    font-size: 16px;
+    vertical-align: top;
+}
+.content .cnews-content .news .article .art-contents1{
+    line-height:30px;
+
+}
+.content .cnews-content .pagination li a{
+    font-size:14px;
+    line-height:14px;
+    color: #C69B6B;
+    border:none;
+}
+.content .invest-banner{
+    /*background-image: url("../img/invest_banner.png");*/
+}
+.content .invest-concept{
+    background-color: #333333;
+    background-image: none;
+    height:auto;
+}
+.content .invest-left{
+display:inline-block;
+    width:60%;
+}
+.content .invest-left img{
+    display:inline-block;
+    width:78px;
+}
+.content .invest-left p{
+    display:inline-block;
+    width:324px;
+    vertical-align: top;
+    margin-left:20px;
+    line-height:25px;
+margin-bottom:70px;
+}
+.content .invest-right{
+    display:inline-block;
+    vertical-align: top;
+    width:40%;
+    /*margin-left:5%*/
+
+}
+.content .invest-right p{
+    line-height:25px;
+    /*margin-bottom:50px;*/
+}
+
+.content .invest-fof .fof-left{
+    display:inline-block;
+    width:35%;
+
+}
+.content .invest-fof .fof-left img{
+    width: 100%;
+}
+.content .invest-fof .fof-right{
+    display: inline-block;
+    width: 60%;
+    margin-left:5%;
+    vertical-align: middle;
+
+    font-size: 14px;
+    line-height: 25px;
+    margin-top:34px;
+    margin-bottom:43px;
+}
+.content .invest-product{
+    background-image: url("../img/invest_b.png");
+}
+.content .invest-product p{
+    color:#C69B6B;
+}
+
+@media (min-width: 1000px){
+
+
+
+
+
+
+
+    }
+@media (max-width: 1000px){
+
+    .content .head-content{
+        width:100%;
+    }
+    .content .nav-content{
+        width:100%;
+
+    }
+
+    .content .news-center{
+        width: 85vw;;
+    }
+    .content .partner-content{
+
+        width:85vw;}
+
+
+
+    .content .partner .avatar .a-container{
+        width:30%
+    }
+
+    .content .partner .avatar .middle{
+        margin:0 5%;
+    }
+    .content .wechat{
+        width:85%;
+    }
+    .content .we-right img{
+        display: none;
+    }
+    .content .wechat .we-left{
+        /*display:inline-block;*/
+        width:100%;
+    }
+    .content .product .pro-content{
+        width:85%;}
+    .content .product .pro-container .tu{
+        /*display:inline-block;*/
+        width:20%;
+
+    }
+
+    .content .product .pro-container .lines{
+
+        width:60%;
+
+    }
+    .content .logo{
+        width: 85%;
+    }
+    .content .foot-container{
+        width:85%;}
+    .content .about-dongshi{
+        width:85%;}
+    .content .about-dongshi .dongshi-left{
+
+        width:23%;
+        /*text-align: center;*/
+        /*margin-left:30%;*/
+    }
+    .content .about-dongshi .dongshi-right{
+        /*display:block;*/
+        width:75%;
+        margin-left:2%;
+    }
+    .content .about-invest .about-icontent{
+        width: 85%;
+    }
+    .content .about-invest{
+        height:auto;
+        padding-bottom:20px;
+
+    }
+
+    .content .about-concept{
+        width:85%;
+    }
+
+    .content .about-concept .about-c{
+
+        margin-right:5%;
+        margin-left:calc(95% - 250px)
+        /*margin-left:auto;*/
+
+    }
+    .content .about-cor table th{
+        width:90px;
+    }
+
+
+
+    .content .team-partner img{
+        width:20%;
+    }
+    .content .team-partner .partner1-intro {
+        /*display:inline-block;*/
+        width:75%;
+        margin-left:5%;
+
+    }
+    .content .contact-us .contact-title{
+        margin-top:30px;
+        margin-bottom:30px;
+        line-height: 25px;
+
+
+    }
+    .content .contact-us img{
+        width:15%;
+    }
+    .content .contact-us .contact-content{
+        width:80%;
+        margin-left:5%;
+
+
+    }
+    .content .contact-us .contact-map{
+        margin-top:50px;
+        margin-bottom:100px;
+    }
+    .content .contact-us .contact-map2 img{
+        width:100%;
+    }
+
+    .content .partner-content .partner1 img{
+        width:25%;
+
+    }
+    .content .partner-content .partner1 .partner-cont{
+
+        width:70%;
+        margin-left:5%;
+
+
+    }
+    .content .partner-content .partner1 .partner-cont .partner-cont-title{
+    line-height:20px;    }
+
+
+
+    .content .invest-left p{
+        /*display:inline-block;*/
+        width:80%;
+
+    }
+
+
+}
+@media (max-width: 414px){
+    .content .head .email{
+        display:none;}
+    .content .news-center img{
+        display:none
+    }
+
+}

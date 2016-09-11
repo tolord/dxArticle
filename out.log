@@ -1,0 +1,228 @@
+updinfo
+undefined 'xuexibao' '3.4.1' undefined undefined undefined
+updinfo
+liaozhongru xuexibao v3.4 undefined undefined undefined
+updinfo
+liaozhongru xuexibao v3.4 undefined undefined undefined
+updinfo
+liaozhongru xuexibao v3.4 undefined undefined undefined
+updinfo
+liaozhongru xuexibao v3.4 undefined undefined undefined
+dirname =  liaozhongru3
+dirname =  liaozhongru5
+updinfo
+liaozhongru xuexibao v3.4 undefined undefined undefined
+dirname =  liaozhongru6
+liaozhongru6 xuexibao
+liaozhongru6 xuexibao v3.5
+hello,wrold
+error and result null null
+f8bd9acb5821f4694910b3f9f5ef724d
+<Buffer 66 38 62 64 39 61 63 62 35 38 32 31 66 34 36 39 34 39 31 30 62 33 66 39 66 35 65 66 37 32 34 64>
+<Buffer 6b a0 5f cc 47 54 53 67 e7 e6 cd 87 91 c7 8f 68 85 ee 46 10 fa 2a 80 9d 72 c8 12 c7 9f b9 70 2c 12 68 f8 26 52 61 55 fe af e5 19 6d 71 82 fb 95 9a 6a ... >
+hello,world
+文件信息成功保存在redis上
+550totla bytes
+hello,wrold
+error and result null { md5: 'f8bd9acb5821f4694910b3f9f5ef724d',
+  errorCount: '0',
+  updateCount: '0',
+  updateTime: '1461815928793',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+0026bc4d2435195776deeaeda977d82b
+<Buffer 30 30 32 36 62 63 34 64 32 34 33 35 31 39 35 37 37 36 64 65 65 61 65 64 61 39 37 37 64 38 32 62>
+<Buffer 90 a2 85 d3 6a 9b e9 3e a5 57 11 af 8d a4 48 24 b0 b2 d3 c6 bd e7 42 86 a6 69 4a c5 8b 9e 35 b0 ff 2d c9 dd 45 30 89 10 52 c3 f8 5b 37 c6 68 b6 03 a1 ... >
+result == { md5: '0026bc4d2435195776deeaeda977d82b',
+  errorCount: '0',
+  updateCount: 1,
+  updateTime: 1461816278391,
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+文件信息成功保存在redis上
+1676totla bytes
+hello,wrold
+error and result null { md5: '0026bc4d2435195776deeaeda977d82b',
+  errorCount: '0',
+  updateCount: '1',
+  updateTime: '1461816278391',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+8142dac09f581ac711701a9e280526c4
+<Buffer 38 31 34 32 64 61 63 30 39 66 35 38 31 61 63 37 31 31 37 30 31 61 39 65 32 38 30 35 32 36 63 34>
+<Buffer 0a 6b 39 eb d4 9e 2f cb dc 7b c9 f9 9b ff bc b6 dc d1 f9 b5 55 38 30 f2 d3 b7 5b 97 09 92 57 b4 bc 0c dc 67 81 bc b3 8c 78 c7 68 c4 ea d8 7f 4c b6 e7 ... >
+result == { md5: '8142dac09f581ac711701a9e280526c4',
+  errorCount: '0',
+  updateCount: 2,
+  updateTime: 1461816314240,
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+文件信息成功保存在redis上
+459totla bytes
+hello,wrold
+error and result null { md5: '8142dac09f581ac711701a9e280526c4',
+  errorCount: '0',
+  updateCount: '2',
+  updateTime: '1461816314240',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+hello,wrold
+error and result null null
+6f342d3107e46d19d551fa0f285b729c
+<Buffer 36 66 33 34 32 64 33 31 30 37 65 34 36 64 31 39 64 35 35 31 66 61 30 66 32 38 35 62 37 32 39 63>
+<Buffer 59 56 64 d9 ba be 45 2a 83 e3 c8 b8 3f 88 9b 60 de d8 11 4c 9b 55 d5 b2 64 a3 25 a3 27 eb 19 f9 73 6e 00 15 8a 8b aa 12 6e 63 e6 0e bc 91 ec e6 f4 d1 ... >
+hello,world
+文件信息成功保存在redis上
+1090totla bytes
+hello,wrold
+error and result null null
+6f342d3107e46d19d551fa0f285b729c
+<Buffer 36 66 33 34 32 64 33 31 30 37 65 34 36 64 31 39 64 35 35 31 66 61 30 66 32 38 35 62 37 32 39 63>
+<Buffer 59 56 64 d9 ba be 45 2a 83 e3 c8 b8 3f 88 9b 60 de d8 11 4c 9b 55 d5 b2 64 a3 25 a3 27 eb 19 f9 73 6e 00 15 8a 8b aa 12 6e 63 e6 0e bc 91 ec e6 f4 d1 ... >
+hello,world
+文件信息成功保存在redis上
+1090totla bytes
+updinfo
+liaozhongru xuexibao v3.4 undefined undefined undefined
+download
+liaozhongru xuexibao v3.4 patch.zip
+{ md5: '6f342d3107e46d19d551fa0f285b729c',
+  errorCount: '0',
+  updateCount: '0',
+  updateTime: '1461816520267',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+发送文件成功
+updinfo
+liaozhongru xuexibao v3.4 undefined undefined undefined
+download
+liaozhongru xuexibao v3.4 patch.zip
+{ md5: '6f342d3107e46d19d551fa0f285b729c',
+  errorCount: '0',
+  updateCount: '0',
+  updateTime: '1461816520267',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+发送文件成功
+updinfo
+liaozhongru xuexibao v3.4 undefined undefined undefined
+download
+liaozhongru xuexibao v3.4 patch.zip
+{ md5: '6f342d3107e46d19d551fa0f285b729c',
+  errorCount: '0',
+  updateCount: '0',
+  updateTime: '1461816520267',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+发送文件成功
+updinfo
+liaozhongru xuexibao v3.4 undefined undefined undefined
+download
+liaozhongru xuexibao v3.4 patch.zip
+{ md5: '6f342d3107e46d19d551fa0f285b729c',
+  errorCount: '0',
+  updateCount: '0',
+  updateTime: '1461816520267',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+发送文件成功
+updinfo
+liaozhongru xuexibao v3.4 undefined undefined undefined
+download
+liaozhongru xuexibao v3.4 patch.zip
+{ md5: '6f342d3107e46d19d551fa0f285b729c',
+  errorCount: '0',
+  updateCount: '0',
+  updateTime: '1461816520267',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+发送文件成功
+hello,wrold
+error and result null { md5: '8142dac09f581ac711701a9e280526c4',
+  errorCount: '0',
+  updateCount: '2',
+  updateTime: '1461816314240',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+hello,wrold
+error and result null { md5: '8142dac09f581ac711701a9e280526c4',
+  errorCount: '0',
+  updateCount: '2',
+  updateTime: '1461816314240',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+0026bc4d2435195776deeaeda977d82b
+<Buffer 30 30 32 36 62 63 34 64 32 34 33 35 31 39 35 37 37 36 64 65 65 61 65 64 61 39 37 37 64 38 32 62>
+<Buffer 90 a2 85 d3 6a 9b e9 3e a5 57 11 af 8d a4 48 24 b0 b2 d3 c6 bd e7 42 86 a6 69 4a c5 8b 9e 35 b0 ff 2d c9 dd 45 30 89 10 52 c3 f8 5b 37 c6 68 b6 03 a1 ... >
+result == { md5: '0026bc4d2435195776deeaeda977d82b',
+  errorCount: '0',
+  updateCount: 3,
+  updateTime: 1461825796506,
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+文件信息成功保存在redis上
+1676totla bytes
+hello,wrold
+error and result null { md5: '0026bc4d2435195776deeaeda977d82b',
+  errorCount: '0',
+  updateCount: '3',
+  updateTime: '1461825796506',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+8142dac09f581ac711701a9e280526c4
+<Buffer 38 31 34 32 64 61 63 30 39 66 35 38 31 61 63 37 31 31 37 30 31 61 39 65 32 38 30 35 32 36 63 34>
+<Buffer 0a 6b 39 eb d4 9e 2f cb dc 7b c9 f9 9b ff bc b6 dc d1 f9 b5 55 38 30 f2 d3 b7 5b 97 09 92 57 b4 bc 0c dc 67 81 bc b3 8c 78 c7 68 c4 ea d8 7f 4c b6 e7 ... >
+result == { md5: '8142dac09f581ac711701a9e280526c4',
+  errorCount: '0',
+  updateCount: 4,
+  updateTime: 1461825904238,
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+文件信息成功保存在redis上
+459totla bytes
+hello,wrold
+error and result null { md5: '8142dac09f581ac711701a9e280526c4',
+  errorCount: '0',
+  updateCount: '4',
+  updateTime: '1461825904238',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+00d69ae147846e29ec71fc27d0b461b4
+<Buffer 30 30 64 36 39 61 65 31 34 37 38 34 36 65 32 39 65 63 37 31 66 63 32 37 64 30 62 34 36 31 62 34>
+<Buffer 7f ce 0c f5 1e 32 7d 96 b3 05 8d a5 72 69 6b c1 42 a2 4a 27 84 dc a6 c7 6c 8d e8 8d d9 92 65 d5 c1 80 0d 58 39 3b 79 1c 2b c9 e9 43 e6 ac 39 5e 7e a3 ... >
+result == { md5: '00d69ae147846e29ec71fc27d0b461b4',
+  errorCount: '0',
+  updateCount: 5,
+  updateTime: 1461825936331,
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+文件信息成功保存在redis上
+1242totla bytes
+hello,wrold
+error and result null { md5: '00d69ae147846e29ec71fc27d0b461b4',
+  errorCount: '0',
+  updateCount: '5',
+  updateTime: '1461825936331',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+hello,wrold
+error and result null { md5: '00d69ae147846e29ec71fc27d0b461b4',
+  errorCount: '0',
+  updateCount: '5',
+  updateTime: '1461825936331',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+hello,wrold
+error and result null { md5: '6f342d3107e46d19d551fa0f285b729c',
+  errorCount: '0',
+  updateCount: '0',
+  updateTime: '1461816520267',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
+hello,wrold
+error and result null { md5: '6f342d3107e46d19d551fa0f285b729c',
+  errorCount: '0',
+  updateCount: '0',
+  updateTime: '1461816520267',
+  patchRelease: 'no',
+  scriptName: 'patch.zip' }
